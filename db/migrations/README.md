@@ -1,0 +1,1 @@
+Postgres database built with Express and Knex for my solo project, [Mix It Up](https://github.com/trbachmann/mix-it-up)
